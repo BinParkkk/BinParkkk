@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
 
 <!--
 **BinParkkk/BinParkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45 로고 넣기
+
 -->
